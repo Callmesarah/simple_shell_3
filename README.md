@@ -1,5 +1,6 @@
 # simple_shell
-Simple Shell
+
+#Simple Shell
 
 This shell is a command-line interpreter that provides a command line user interface for Unix-like operating systems.
 
