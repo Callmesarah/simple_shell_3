@@ -1,4 +1,4 @@
-# simple_shell
+# simple_shell Team Project
 
 #Simple Shell
 
