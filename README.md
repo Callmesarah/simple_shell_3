@@ -1,4 +1,6 @@
 # simple_shell Team Project
+Author:
+Eloghosa Morgan and Kabeer Akanni
 
 #Simple Shell
 
