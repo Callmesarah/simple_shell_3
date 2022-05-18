@@ -3,8 +3,8 @@
 
 /*
  * File: shell.h
-* Auth: Jamiu Ismail
-	* 						Suara Ayomide
+* Auth: Elo and Kabeer
+	* 						
  */
 
 #include <fcntl.h>
